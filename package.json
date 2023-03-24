@@ -1,0 +1,11 @@
+{
+  "name": "secondhalf-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions/lib/index.js",
+  "scripts": {
+    "serve": "firebase emulators:start --import sample-data"
+  },
+  "author": "",
+  "license": "ISC"
+}
